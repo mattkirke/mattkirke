@@ -1,7 +1,9 @@
 ### Hi there 👋
-Hi there, my name is Matt Kirke. I am currently completing the School of Code Bootcamp. 
+Hi there, my name is Matt Kirke. I have just completed the School of Code Bootcamp!
+
+- I am currently completing the #100DaysOfCoding challenge
 <!--
-**mattkirke/mattkirke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
