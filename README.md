@@ -3,8 +3,8 @@ Hi there, my name is Matt Kirke. I have just completed the School of Code Bootca
 
 - I am currently completing the #100DaysOfCoding challenge
 - I am also fixing errors on my Bar Closing List!
-- Ask me about my experience of School Of Code and my excitement for my tech career!
-- How to reach me: [Linkedin](www.linkedin.com/in/matthew-kirke843265) 
+- Ask me about my experience at School Of Code and my excitement for my tech career!
+- How to reach me: [Linkedin](www.linkedin.com/in/matthew-kirke843265)
 <!--
 
 
