@@ -2,14 +2,16 @@
 
 Hi there, my name is Matt Kirke. I have just completed the School of Code Bootcamp! I thoroughly enjoyed the 16 weeks of intense training developing my skills in:
 
--JavaScript
+- JavaScript
 - HTML
 - CSS
 - React
 - Next.js
+- Vue.js
 - Supabase
 - Express
 - Vitest
+- Playwright
 - Figma
 
 During my training, I embraced the power of teamwork and collaborative coding through pair programming which strengthened my technical skills due to the dynamic learning environment and sharing of knowledge.
