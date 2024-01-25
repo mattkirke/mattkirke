@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Hi there, my name is Matt Kirke. I have just completed the School of Code Bootcamp! I thoroughly enjoyed the 16 weeks of intense training developing my skills in:
+
 -JavaScript
 - HTML
 - CSS
